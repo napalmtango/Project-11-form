@@ -4,21 +4,7 @@
   padding: 0;
 }
 
-.main {
-  width: 100%;
-  min-height: 100vh;
-  display: flex;
-  align-items: right;
-  /* justify-content: center; */
-  flex-direction: column;
-}
-
 #form-submitted-msg {
-  /* margin-bottom: 3rem; */
-  /* border-radius: 3px;
-  /* background-color: rgb(67, 161, 67); 
-  padding: 0.5rem; */
-  /* width: 40%; */
   text-align: right;
   color: rgb(67, 161, 67);
   display: none;
@@ -29,7 +15,7 @@
 }
 
 .input_field {
-  height: 2em;
+  height: 2.4em;
   border: 1px solid #333;
 }
 
